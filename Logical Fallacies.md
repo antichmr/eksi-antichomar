@@ -115,6 +115,8 @@ Bill claims that this was an accident, but we know Bill to be a liar, so we can'
 
 *(Even though Bill may be a liar, his character does not automatically make anything he says untrue.)*
 
+**Example:**
+
 Susan is an avid hunter, therefor she cannot possibly support gun control.
 
 *(Being a hunter is used as a negative characteristic to make a conclusion which could very well be untrue. Susan could support a variety of gun control elgislation.)*
